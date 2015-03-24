@@ -1,0 +1,1 @@
+noPoll is a WebSocket (RFC 6544) implementation designed to integrate well with existing projects that requires WebSocket support. It is currently being used by [Vortex Library](http://www.aspl.es/vortex), [Turbulence](http://www.aspl.es/turbulence) and core-admin to provide BEEP over WebSocket support.
